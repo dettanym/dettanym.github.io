@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miti Mazmudar / Miti Mazmudar"
+title                    : "Miti Mazmudar"
 title_separator          : "-"
 name                     : &name "Miti Mazmudar"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Miti Mazmudar"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I research privacy-enahcning technologies at the [CrySP (Cryptography, Security and Privacy) lab](https://crysp.uwaterloo.ca) in Waterloo. 
+"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : 

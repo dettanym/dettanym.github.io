@@ -10,7 +10,7 @@ remote_theme: mmistakes/minimal-mistakes@4.9.0
 # Site Settings
 locale                   : "en-US"
 title                    : "Miti Mazmudar"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Miti Mazmudar"
 description              : &description "personal description"
 url                      : https://dettanym.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

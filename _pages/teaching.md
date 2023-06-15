@@ -67,7 +67,7 @@ author_profile: true
   </li>
 </ol>
 
-<h3>Pedagogy research talks</h3>
+<h3>Outreach and pedagogy research talks</h3>
 
 <ol>
 {% for post in site.teaching reversed %}
@@ -75,3 +75,4 @@ author_profile: true
 {%endfor%}
 
 </ol>
+

@@ -14,7 +14,7 @@ author_profile: true
     </a>
   </p>
   <p>
-    <span>(ongoing) University of Waterloo.</span>
+    <span>University of Waterloo.</span>
   </p>
   </li>
   <li class="list_item">

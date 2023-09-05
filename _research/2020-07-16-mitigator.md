@@ -1,6 +1,6 @@
 ---
 title: 'Mitigator: Privacy policy compliance using trusted hardware'
-author: '<span class="own-name">Miti Mazmudar</span>, Stan Gurtler, Ian Goldberg'
+author: '<span class="own-name">Miti Mazmudar</span>, Ian Goldberg'
 venue: 'PoPETs'
 year: '2020'
 paperurl: '/files/mitigator-popets20.pdf'

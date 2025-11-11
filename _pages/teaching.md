@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I am very passionate about teaching at the university level and supporting underrepresented groups. I will be teaching at both undergraduate and graduate levels in my new position at Calgary. I will also be teaching courses as part of the [MISP program](grad.ucalgary.ca/future-students/explore-programs/information-security-and-privacy-misp-course). I have also engaged in teaching pedagogy research as part of the CUT program. 
+
 <h3>Teaching certifications</h3>
 <ol>
   <li class="list_item">

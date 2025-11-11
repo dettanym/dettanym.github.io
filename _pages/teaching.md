@@ -36,6 +36,16 @@ author_profile: true
     Course instructor 
   </span>
   <span>
+    for ISEC 631 Privacy By design
+  </span>
+  <p>University of Calgary Winter 2025.</p>
+  </li>
+  
+  <li class="list_item">
+  <span style="font-style: italic">
+    Course instructor 
+  </span>
+  <span>
     for CS458 Computer Security and Privacy (co-taught with N. Asokan)
   </span>
   <p>University of Waterloo. Spring 2021.</p>

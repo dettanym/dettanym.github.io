@@ -62,21 +62,21 @@ author:
   avatar : "/assets/images/own-bio-photo.jpg"
   bio    : "I research PETs (privacy-enhancing technologies)!"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mitimazmudar"
-    - label: "Gitlab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://git-crysp.uwaterloo.ca/miti"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dettanym/"
+    - label: "Google Scholar" 
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=k2jzXz8AAAAJ&hl=en"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mitimazmudar"
-    - label: "Gitlab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://git-crysp.uwaterloo.ca/miti"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dettanym/"
+    - label: "Google Scholar" 
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=k2jzXz8AAAAJ&hl=en"
 
 defaults:
   # _posts

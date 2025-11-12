@@ -16,4 +16,4 @@ It is common in Canada to do a thesis-based Masters before a PhD; this gives you
 
 You should submit your application through the usual process and email me as well. You may find my email address from one of my papers. Please email me with your CV (including GitHub and Google Scholar, if applicable), transcripts, and research statement (no more than 2 pages). Ensure that the subject line starts with "UofC Application". 
 
-Undergrad Research Projects (CPSC 502/503): If you wish me to supervise you through your independent study courses, please email me well in advance of the start of the term. 
+**Undergrad Research Projects (CPSC 502/503):** If you wish me to supervise you through your independent study courses, please email me well in advance of the start of the term. 

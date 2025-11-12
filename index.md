@@ -12,7 +12,7 @@ Prior to joining University of Calgary, Miti received her PhD in Computer Scienc
 **Openings.**
 I am looking to fill two fully-funded positions: **one MSc** and **one PhD** position, both beginning from Fall (September) 2026. If you're interested in my research, you should apply for these positions! You should go through the [application process](https://grad.ucalgary.ca/future-students/graduate/admissions/how-apply), [graduate programs in CS](https://science.ucalgary.ca/computer-science/future-students/graduate/thesis-programs) and [degree requirements for graduate programs in CS](https://science.ucalgary.ca/computer-science/future-students/graduate/degree-requirements).  
 
-It is common in Canada to do a thesis-based Masters before a PhD; this gives you an opportunity to “taste” what doing research involves, before committing to a PhD. If you have already done a coursework based Masters and want to do a PhD, you should go through the degree requirements of a PhD at UCalgary.
+It is common in Canada to do a thesis-based Masters before a PhD; this gives you an opportunity to “taste” what doing research involves, before committing to a PhD. 
 
 You should submit your application through the usual process and email me as well. You may find my email address from one of my papers. Please email me with your CV (including GitHub and Google Scholar, if applicable), transcripts, and research statement (no more than 2 pages). Ensure that the subject line starts with "UofC Application". 
 

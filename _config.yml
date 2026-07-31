@@ -111,7 +111,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # _spise
+  - scope:
+      path: ""
+      type: spise
+    values:
+      layout: single
+      author_profile: true
+      
 collections:
   research:
     output: true
